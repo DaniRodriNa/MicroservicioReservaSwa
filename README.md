@@ -1,4 +1,4 @@
-# MicroservicioReservaSwa
+# MicroservicioReservaSwagger
 ## Resumen
 Microservicio Reserva que recoge los datos del cliente y las claves principales del vuelo y el hotel para realizar una reserva. 
 Contiene documentacion Swagger
